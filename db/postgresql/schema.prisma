@@ -1,0 +1,1 @@
+directUrl = env("DIRECT_DATABASE_URL")
